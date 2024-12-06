@@ -9,6 +9,7 @@ This project explores the **Zachary Karate Club** dataset to analyze its social 
 - [Visualization](#visualization)
 - [Libraries Used](#libraries-used)
 - [Results and Findings](#results-and-findings)
+- [Files in the Project](#files-in-the-project)
 - [How to Run the Code](#how-to-run-the-code)
 - [References](#references)
 
@@ -75,9 +76,20 @@ This project explores the **Zachary Karate Club** dataset to analyze its social 
 - **Model Simulations**:
   - The Watts-Strogatz and Barabási-Albert models highlighted the network's small-world and scale-free characteristics.
 
+## Files in the Project
+1. **report.pdf**: Contains the detailed project report and findings.
+2. **Graph_Social_Networks_Codes.ipynb**: Jupyter Notebook with the Python code for analyzing the dataset.
+3. **Visualization.ipynb**: Jupyter Notebook with additional visualizations for the dataset.
+4. **Project_ppt.pdf**: Presentation summarizing the project and its outcomes.
+
 ## How to Run the Code
-1. Install required libraries:
-   ```bash
-   pip install networkx matplotlib plotly
-2.Open the Graph_Social_Networks_Codes.ipynb file in Jupyter Notebook or Google Colab.
-3.Execute the cells step-by-step to generate the analysis and visualizations.
+Open the following files in Jupyter Notebook or Google Colab:
+- `Graph_Social_Networks_Codes.ipynb`
+- `Visualization.ipynb`
+
+Execute the cells step-by-step to generate the analysis and visualizations.
+
+## References
+1. [Zachary’s Karate Club Dataset](https://networkdata.ics.uci.edu/netdata/html/zacharyKarate.html)
+2. Rogers, I. (2002). *The Google PageRank Algorithm and How It Works*.
+3. Wikipedia contributors. *HITS Algorithm*, *Social Network Analysis*.
